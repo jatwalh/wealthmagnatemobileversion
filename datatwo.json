@@ -1,0 +1,982 @@
+[
+    {
+        "_id": "653a130e2a9fb6ee19489eae",
+        "industry": "Chemicals",
+        "stockName": "AARTIIND"
+    },
+    {
+        "_id": "653a130e2a9fb6ee19489eb0",
+        "industry": "Electric Equipment",
+        "stockName": "ABB"
+    },
+    {
+        "_id": "653a130e2a9fb6ee19489eb2",
+        "industry": "Pharmaceuticals & Drugs",
+        "stockName": "ABBOTINDIA"
+    },
+    {
+        "_id": "653a130e2a9fb6ee19489eb4",
+        "industry": "Finance - NBFC",
+        "stockName": "ABCAPITAL"
+    },
+    {
+        "_id": "653a130e2a9fb6ee19489eb6",
+        "industry": "Retailing",
+        "stockName": "ABFRL"
+    },
+    {
+        "_id": "653a130e2a9fb6ee19489eb8",
+        "industry": "Cement & Construction Materials",
+        "stockName": "ACC"
+    },
+    {
+        "_id": "653a130e2a9fb6ee19489eba",
+        "industry": "Trading",
+        "stockName": "ADANIENT"
+    },
+    {
+        "_id": "653a130e2a9fb6ee19489ebc",
+        "industry": "Pharmaceuticals & Drugs",
+        "stockName": "ALKEM"
+    },
+    {
+        "_id": "653a130e2a9fb6ee19489ebe",
+        "industry": "Unknown",
+        "stockName": "AMARAJABAT"
+    },
+    {
+        "_id": "653a130e2a9fb6ee19489ec4",
+        "industry": "Tyres & Allied",
+        "stockName": "APOLLOTYRE"
+    },
+    {
+        "_id": "653a130e2a9fb6ee19489ec2",
+        "industry": "Pharmaceuticals & Drugs",
+        "stockName": "APLLTD"
+    },
+    {
+        "_id": "653a130e2a9fb6ee19489ec0",
+        "industry": "Cement & Construction Materials",
+        "stockName": "AMBUJACEM"
+    },
+    {
+        "_id": "653a130e2a9fb6ee19489ec6",
+        "industry": "Automobiles-Trucks/Lcv",
+        "stockName": "ASHOKLEY"
+    },
+    {
+        "_id": "653a130e2a9fb6ee19489ec8",
+        "industry": "Paints",
+        "stockName": "ASIANPAINT"
+    },
+    {
+        "_id": "653a130e2a9fb6ee19489eca",
+        "industry": "Plastic Products",
+        "stockName": "ASTRAL"
+    },
+    {
+        "_id": "653a130e2a9fb6ee19489ecc",
+        "industry": "Chemicals",
+        "stockName": "ATUL"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489ece",
+        "industry": "Bank - Private",
+        "stockName": "AUBANK"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489ed0",
+        "industry": "Pharmaceuticals & Drugs",
+        "stockName": "AUROPHARMA"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489ed2",
+        "industry": "Bank - Private",
+        "stockName": "AXISBANK"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489ed4",
+        "industry": "Hospital & Healthcare Services",
+        "stockName": "APOLLOHOSP"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489ed6",
+        "industry": "Port",
+        "stockName": "ADANIPORTS"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489ed8",
+        "industry": "Telecommunication - Service  Provider",
+        "stockName": "BHARTIARTL"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489eda",
+        "industry": "Automobile Two & Three Wheelers",
+        "stockName": "BAJAJ-AUTO"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489edc",
+        "industry": "Finance - Investment",
+        "stockName": "BAJAJFINSV"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489ede",
+        "industry": "Finance - NBFC",
+        "stockName": "BAJFINANCE"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489ee2",
+        "industry": "Sugar",
+        "stockName": "BALRAMCHIN"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489ee0",
+        "industry": "Tyres & Allied",
+        "stockName": "BALKRISIND"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489ee4",
+        "industry": "Bank - Private",
+        "stockName": "BANDHANBNK"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489ee6",
+        "industry": "Bank - Public",
+        "stockName": "BANKBARODA"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489ee8",
+        "industry": "Footwear",
+        "stockName": "BATAINDIA"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489eea",
+        "industry": "Engineering - Industrial Equipments",
+        "stockName": "BEL"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489eec",
+        "industry": "Paints",
+        "stockName": "BERGEPAINT"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489eee",
+        "industry": "Forgings",
+        "stockName": "BHARATFORG"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489ef0",
+        "industry": "Engineering - Industrial Equipments",
+        "stockName": "BHEL"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489ef2",
+        "industry": "Pharmaceuticals & Drugs",
+        "stockName": "BIOCON"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489ef6",
+        "industry": "IT - Software",
+        "stockName": "BSOFT"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489ef4",
+        "industry": "Auto Ancillary",
+        "stockName": "BOSCHLTD"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489ef8",
+        "industry": "Consumer Food",
+        "stockName": "BRITANNIA"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489efc",
+        "industry": "Bank - Public",
+        "stockName": "CANBK"
+    },
+    {
+        "_id": "653a130f2a9fb6ee19489efa",
+        "industry": "Refineries",
+        "stockName": "BPCL"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489efe",
+        "industry": "Pharmaceuticals & Drugs",
+        "stockName": "CIPLA"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489f00",
+        "industry": "Finance - Housing",
+        "stockName": "CANFINHOME"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489f02",
+        "industry": "Fertilizers",
+        "stockName": "CHAMBLFERT"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489f04",
+        "industry": "Finance - NBFC",
+        "stockName": "CHOLAFIN"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489f06",
+        "industry": "Mining & Minerals",
+        "stockName": "COALINDIA"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489f08",
+        "industry": "IT - Software",
+        "stockName": "COFORGE"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489f0c",
+        "industry": "Logistics",
+        "stockName": "CONCOR"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489f0a",
+        "industry": "Household & Personal Products",
+        "stockName": "COLPAL"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489f0e",
+        "industry": "Fertilizers",
+        "stockName": "COROMANDEL"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489f10",
+        "industry": "Consumer Durables - Domestic Appliances",
+        "stockName": "CROMPTON"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489f14",
+        "industry": "Diesel Engines",
+        "stockName": "CUMMINSIND"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489f16",
+        "industry": "Pharmaceuticals & Drugs",
+        "stockName": "DRREDDY"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489f18",
+        "industry": "Pharmaceuticals & Drugs",
+        "stockName": "DIVISLAB"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489f1a",
+        "industry": "Household & Personal Products",
+        "stockName": "DABUR"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489f12",
+        "industry": "Bank - Private",
+        "stockName": "CUB"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489f1c",
+        "industry": "Cement & Construction Materials",
+        "stockName": "DALBHARAT"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489f1e",
+        "industry": "Chemicals",
+        "stockName": "DEEPAKNTR"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489f22",
+        "industry": "Consumer Durables - Electronics",
+        "stockName": "DIXON"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489f20",
+        "industry": "Amusement Parks/Recreation/Club",
+        "stockName": "DELTACORP"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f28",
+        "industry": "Automobile Two & Three Wheelers",
+        "stockName": "EICHERMOT"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489f26",
+        "industry": "Automobiles-Tractors",
+        "stockName": "ESCORTS"
+    },
+    {
+        "_id": "653a13102a9fb6ee19489f24",
+        "industry": "Construction - Real Estate",
+        "stockName": "DLF"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f2a",
+        "industry": "Batteries",
+        "stockName": "EXIDEIND"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f2c",
+        "industry": "Bank - Private",
+        "stockName": "FEDERALBNK"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f2e",
+        "industry": "BPO/ITeS",
+        "stockName": "FSL"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f30",
+        "industry": "Industrial  Gases & Fuels",
+        "stockName": "GAIL"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f32",
+        "industry": "Pharmaceuticals & Drugs",
+        "stockName": "GLENMARK"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f34",
+        "industry": "Engineering - Construction",
+        "stockName": "GMRINFRA"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f38",
+        "industry": "Household & Personal Products",
+        "stockName": "GODREJCP"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f36",
+        "industry": "Fertilizers",
+        "stockName": "GNFC"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f3a",
+        "industry": "Construction - Real Estate",
+        "stockName": "GODREJPROP"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f40",
+        "industry": "Cement & Construction Materials",
+        "stockName": "GRASIM"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f3e",
+        "industry": "Gas Transmission/Marketing",
+        "stockName": "GSPL"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f3c",
+        "industry": "Pharmaceuticals & Drugs",
+        "stockName": "GRANULES"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f42",
+        "industry": "Gas Transmission/Marketing",
+        "stockName": "GUJGASLTD"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f44",
+        "industry": "Defence",
+        "stockName": "HAL"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f46",
+        "industry": "Electric Equipment",
+        "stockName": "HAVELLS"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f48",
+        "industry": "Finance - Asset Management",
+        "stockName": "HDFCAMC"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f4a",
+        "industry": "Metal - Non Ferrous",
+        "stockName": "HINDALCO"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f4c",
+        "industry": "IT - Software",
+        "stockName": "HCLTECH"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f4e",
+        "industry": "Automobile Two & Three Wheelers",
+        "stockName": "HEROMOTOCO"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f50",
+        "industry": "Insurance",
+        "stockName": "HDFCLIFE"
+    },
+    {
+        "_id": "653a13112a9fb6ee19489f52",
+        "industry": "Bank - Private",
+        "stockName": "HDFCBANK"
+    },
+    {
+        "_id": "653a13122a9fb6ee19489f54",
+        "industry": "Unknown",
+        "stockName": "HDFC"
+    },
+    {
+        "_id": "653a13122a9fb6ee19489f56",
+        "industry": "Metal - Non Ferrous",
+        "stockName": "HINDCOPPER"
+    },
+    {
+        "_id": "653a13122a9fb6ee19489f58",
+        "industry": "Refineries",
+        "stockName": "HINDPETRO"
+    },
+    {
+        "_id": "653a13122a9fb6ee19489f5a",
+        "industry": "Consumer Durables - Electronics",
+        "stockName": "HONAUT"
+    },
+    {
+        "_id": "653a13122a9fb6ee19489f5c",
+        "industry": "Household & Personal Products",
+        "stockName": "HINDUNILVR"
+    },
+    {
+        "_id": "653a13122a9fb6ee19489f60",
+        "industry": "Finance - Housing",
+        "stockName": "IBULHSGFIN"
+    },
+    {
+        "_id": "653a13122a9fb6ee19489f5e",
+        "industry": "Bank - Private",
+        "stockName": "ICICIBANK"
+    },
+    {
+        "_id": "653a13122a9fb6ee19489f62",
+        "industry": "Insurance",
+        "stockName": "ICICIGI"
+    },
+    {
+        "_id": "653a13122a9fb6ee19489f64",
+        "industry": "Insurance",
+        "stockName": "ICICIPRULI"
+    },
+    {
+        "_id": "653a13122a9fb6ee19489f68",
+        "industry": "Finance - NBFC",
+        "stockName": "IDFC"
+    },
+    {
+        "_id": "653a13122a9fb6ee19489f66",
+        "industry": "Telecommunication - Service  Provider",
+        "stockName": "IDEA"
+    },
+    {
+        "_id": "653a13122a9fb6ee19489f6a",
+        "industry": "Bank - Private",
+        "stockName": "IDFCFIRSTB"
+    },
+    {
+        "_id": "653a13122a9fb6ee19489f6c",
+        "industry": "Power Generation/Distribution",
+        "stockName": "IEX"
+    },
+    {
+        "_id": "653a13122a9fb6ee19489f6e",
+        "industry": "Gas Transmission/Marketing",
+        "stockName": "IGL"
+    },
+    {
+        "_id": "653a13122a9fb6ee19489f70",
+        "industry": "Hotel, Resort & Restaurants",
+        "stockName": "INDHOTEL"
+    },
+    {
+        "_id": "653a13122a9fb6ee19489f72",
+        "industry": "Cement & Construction Materials",
+        "stockName": "INDIACEM"
+    },
+    {
+        "_id": "653a13122a9fb6ee19489f74",
+        "industry": "e-Commerce",
+        "stockName": "INDIAMART"
+    },
+    {
+        "_id": "653a13132a9fb6ee19489f76",
+        "industry": "Airlines",
+        "stockName": "INDIGO"
+    },
+    {
+        "_id": "653a13132a9fb6ee19489f78",
+        "industry": "Bank - Private",
+        "stockName": "INDUSINDBK"
+    },
+    {
+        "_id": "653a13132a9fb6ee19489f7c",
+        "industry": "IT - Software",
+        "stockName": "INTELLECT"
+    },
+    {
+        "_id": "653a13132a9fb6ee19489f7e",
+        "industry": "IT - Software",
+        "stockName": "INFY"
+    },
+    {
+        "_id": "653a13132a9fb6ee19489f7a",
+        "industry": "Telecommunication - Service  Provider",
+        "stockName": "INDUSTOWER"
+    },
+    {
+        "_id": "653a13132a9fb6ee19489f80",
+        "industry": "Refineries",
+        "stockName": "IOC"
+    },
+    {
+        "_id": "653a13132a9fb6ee19489f82",
+        "industry": "Pharmaceuticals & Drugs",
+        "stockName": "IPCALAB"
+    },
+    {
+        "_id": "653a13132a9fb6ee19489f86",
+        "industry": "Cigarettes/Tobacco",
+        "stockName": "ITC"
+    },
+    {
+        "_id": "653a13132a9fb6ee19489f84",
+        "industry": "Travel Services",
+        "stockName": "IRCTC"
+    },
+    {
+        "_id": "653a13132a9fb6ee19489f88",
+        "industry": "Steel/Sponge Iron/Pig Iron",
+        "stockName": "JINDALSTEL"
+    },
+    {
+        "_id": "653a13132a9fb6ee19489f8a",
+        "industry": "Cement & Construction Materials",
+        "stockName": "JKCEMENT"
+    },
+    {
+        "_id": "653a13132a9fb6ee19489f8c",
+        "industry": "Steel & Iron Products",
+        "stockName": "JSWSTEEL"
+    },
+    {
+        "_id": "653a13132a9fb6ee19489f92",
+        "industry": "Finance - NBFC",
+        "stockName": "L&TFH"
+    },
+    {
+        "_id": "653a13132a9fb6ee19489f90",
+        "industry": "Bank - Private",
+        "stockName": "KOTAKBANK"
+    },
+    {
+        "_id": "653a13132a9fb6ee19489f8e",
+        "industry": "Consumer Food",
+        "stockName": "JUBLFOOD"
+    },
+    {
+        "_id": "653a13132a9fb6ee19489f94",
+        "industry": "Hospital & Healthcare Services",
+        "stockName": "LALPATHLAB"
+    },
+    {
+        "_id": "653a13132a9fb6ee19489f96",
+        "industry": "Pharmaceuticals & Drugs",
+        "stockName": "LAURUSLABS"
+    },
+    {
+        "_id": "653a13132a9fb6ee19489f98",
+        "industry": "Finance - Housing",
+        "stockName": "LICHSGFIN"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489f9e",
+        "industry": "IT - Software",
+        "stockName": "LTTS"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489f9c",
+        "industry": "Unknown",
+        "stockName": "LTI"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489f9a",
+        "industry": "Engineering - Construction",
+        "stockName": "LT"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489fa0",
+        "industry": "Pharmaceuticals & Drugs",
+        "stockName": "LUPIN"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489fa2",
+        "industry": "Automobiles - Passenger Cars",
+        "stockName": "M&M"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489fa6",
+        "industry": "Finance - NBFC",
+        "stockName": "MANAPPURAM"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489fa8",
+        "industry": "Consumer Food",
+        "stockName": "MARICO"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489fac",
+        "industry": "Finance - Stock Broking",
+        "stockName": "MCX"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489fae",
+        "industry": "Hospital & Healthcare Services",
+        "stockName": "METROPOLIS"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489faa",
+        "industry": "Unknown",
+        "stockName": "MCDOWELL_N"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489fa4",
+        "industry": "Finance - NBFC",
+        "stockName": "M&MFIN"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489fb0",
+        "industry": "Finance - Others",
+        "stockName": "MFSL"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489fb4",
+        "industry": "Unknown",
+        "stockName": "MINDTREE"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489fb2",
+        "industry": "Gas Transmission/Marketing",
+        "stockName": "MGL"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489fb6",
+        "industry": "Auto Ancillary",
+        "stockName": "MOTHERSON"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489fb8",
+        "industry": "Automobiles - Passenger Cars",
+        "stockName": "MARUTI"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489fba",
+        "industry": "IT - Software",
+        "stockName": "MPHASIS"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489fbc",
+        "industry": "Tyres & Allied",
+        "stockName": "MRF"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489fbe",
+        "industry": "Finance - NBFC",
+        "stockName": "MUTHOOTFIN"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489fc0",
+        "industry": "Aluminium & Aluminium Products",
+        "stockName": "NATIONALUM"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fc4",
+        "industry": "Chemicals",
+        "stockName": "NAVINFLUOR"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fc6",
+        "industry": "Power Generation/Distribution",
+        "stockName": "NTPC"
+    },
+    {
+        "_id": "653a13142a9fb6ee19489fc2",
+        "industry": "BPO/ITeS",
+        "stockName": "NAUKRI"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fc8",
+        "industry": "Consumer Food",
+        "stockName": "NESTLEIND"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fca",
+        "industry": "Mining & Minerals",
+        "stockName": "NMDC"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fcc",
+        "industry": "Construction - Real Estate",
+        "stockName": "OBEROIRLTY"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fd0",
+        "industry": "IT - Software",
+        "stockName": "OFSS"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fce",
+        "industry": "Oil Exploration",
+        "stockName": "ONGC"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fd2",
+        "industry": "Textile",
+        "stockName": "PAGEIND"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fd4",
+        "industry": "Finance - NBFC",
+        "stockName": "PEL"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fd6",
+        "industry": "IT - Software",
+        "stockName": "PERSISTENT"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fd8",
+        "industry": "Industrial  Gases & Fuels",
+        "stockName": "PETRONET"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fda",
+        "industry": "Finance Term Lending",
+        "stockName": "PFC"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fdc",
+        "industry": "Chemicals",
+        "stockName": "PIDILITIND"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fe0",
+        "industry": "Bank - Public",
+        "stockName": "PNB"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fde",
+        "industry": "Pesticides & Agrochemicals",
+        "stockName": "PIIND"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fe4",
+        "industry": "Unknown",
+        "stockName": "PVR"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fe2",
+        "industry": "Cable",
+        "stockName": "POLYCAB"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fe6",
+        "industry": "Power Generation/Distribution",
+        "stockName": "POWERGRID"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fea",
+        "industry": "Cement & Construction Materials",
+        "stockName": "RAMCOCEM"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fe8",
+        "industry": "Petrochemicals",
+        "stockName": "RAIN"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fec",
+        "industry": "Bank - Private",
+        "stockName": "RBLBANK"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489fee",
+        "industry": "Refineries",
+        "stockName": "RELIANCE"
+    },
+    {
+        "_id": "653a13152a9fb6ee19489ff0",
+        "industry": "Finance Term Lending",
+        "stockName": "RECLTD"
+    },
+    {
+        "_id": "653a13162a9fb6ee19489ff2",
+        "industry": "Steel & Iron Products",
+        "stockName": "SAIL"
+    },
+    {
+        "_id": "653a13162a9fb6ee19489ff4",
+        "industry": "Finance - NBFC",
+        "stockName": "SBICARD"
+    },
+    {
+        "_id": "653a13162a9fb6ee19489ff6",
+        "industry": "Bank - Public",
+        "stockName": "SBIN"
+    },
+    {
+        "_id": "653a13162a9fb6ee19489ff8",
+        "industry": "Insurance",
+        "stockName": "SBILIFE"
+    },
+    {
+        "_id": "653a13162a9fb6ee19489ffa",
+        "industry": "Cement & Construction Materials",
+        "stockName": "SHREECEM"
+    },
+    {
+        "_id": "653a13162a9fb6ee19489ffc",
+        "industry": "Electric Equipment",
+        "stockName": "SIEMENS"
+    },
+    {
+        "_id": "653a13162a9fb6ee19489ffe",
+        "industry": "Chemicals",
+        "stockName": "SRF"
+    },
+    {
+        "_id": "653a13162a9fb6ee1948a000",
+        "industry": "Unknown",
+        "stockName": "SRTRANSFIN"
+    },
+    {
+        "_id": "653a13162a9fb6ee1948a002",
+        "industry": "Pharmaceuticals & Drugs",
+        "stockName": "SUNPHARMA"
+    },
+    {
+        "_id": "653a13162a9fb6ee1948a004",
+        "industry": "TV Broadcasting & Software Production",
+        "stockName": "SUNTV"
+    },
+    {
+        "_id": "653a13162a9fb6ee1948a006",
+        "industry": "Pharmaceuticals & Drugs",
+        "stockName": "SYNGENE"
+    },
+    {
+        "_id": "653a13162a9fb6ee1948a008",
+        "industry": "IT - Software",
+        "stockName": "TCS"
+    },
+    {
+        "_id": "653a13162a9fb6ee1948a00a",
+        "industry": "Steel & Iron Products",
+        "stockName": "TATASTEEL"
+    },
+    {
+        "_id": "653a13162a9fb6ee1948a00c",
+        "industry": "Power Generation/Distribution",
+        "stockName": "TATAPOWER"
+    },
+    {
+        "_id": "653a13162a9fb6ee1948a00e",
+        "industry": "Automobiles-Trucks/Lcv",
+        "stockName": "TATAMOTORS"
+    },
+    {
+        "_id": "653a13162a9fb6ee1948a010",
+        "industry": "Tea/Coffee",
+        "stockName": "TATACONSUM"
+    },
+    {
+        "_id": "653a13162a9fb6ee1948a012",
+        "industry": "Telecommunication - Service  Provider",
+        "stockName": "TATACOMM"
+    },
+    {
+        "_id": "653a13162a9fb6ee1948a014",
+        "industry": "Chemicals",
+        "stockName": "TATACHEM"
+    },
+    {
+        "_id": "653a13162a9fb6ee1948a016",
+        "industry": "Diamond  &  Jewellery",
+        "stockName": "TITAN"
+    },
+    {
+        "_id": "653a13162a9fb6ee1948a018",
+        "industry": "Pharmaceuticals & Drugs",
+        "stockName": "TORNTPHARM"
+    },
+    {
+        "_id": "653a13162a9fb6ee1948a01a",
+        "industry": "Power Generation/Distribution",
+        "stockName": "TORNTPOWER"
+    },
+    {
+        "_id": "653a13162a9fb6ee1948a01c",
+        "industry": "Retailing",
+        "stockName": "TRENT"
+    },
+    {
+        "_id": "653a13172a9fb6ee1948a01e",
+        "industry": "Automobile Two & Three Wheelers",
+        "stockName": "TVSMOTOR"
+    },
+    {
+        "_id": "653a13172a9fb6ee1948a020",
+        "industry": "Breweries & Distilleries",
+        "stockName": "UBL"
+    },
+    {
+        "_id": "653a13172a9fb6ee1948a022",
+        "industry": "Pesticides & Agrochemicals",
+        "stockName": "UPL"
+    },
+    {
+        "_id": "653a13172a9fb6ee1948a024",
+        "industry": "Cement & Construction Materials",
+        "stockName": "ULTRACEMCO"
+    },
+    {
+        "_id": "653a13172a9fb6ee1948a026",
+        "industry": "Metal - Non Ferrous",
+        "stockName": "VEDL"
+    },
+    {
+        "_id": "653a13172a9fb6ee1948a028",
+        "industry": "Air Conditioners",
+        "stockName": "VOLTAS"
+    },
+    {
+        "_id": "653a13172a9fb6ee1948a02a",
+        "industry": "Consumer Durables - Domestic Appliances",
+        "stockName": "WHIRLPOOL"
+    },
+    {
+        "_id": "653a13172a9fb6ee1948a02c",
+        "industry": "IT - Software",
+        "stockName": "WIPRO"
+    },
+    {
+        "_id": "653a13172a9fb6ee1948a02e",
+        "industry": "TV Broadcasting & Software Production",
+        "stockName": "ZEEL"
+    },
+    {
+        "_id": "653a13172a9fb6ee1948a030",
+        "industry": "Pharmaceuticals & Drugs",
+        "stockName": "ZYDUSLIFE"
+    },
+    {
+        "_id": "653a13172a9fb6ee1948a032",
+        "industry": "Unknown",
+        "stockName": "NIFTY"
+    },
+    {
+        "_id": "653a13172a9fb6ee1948a034",
+        "industry": "Unknown",
+        "stockName": "BANKNIFTY"
+    }
+]
